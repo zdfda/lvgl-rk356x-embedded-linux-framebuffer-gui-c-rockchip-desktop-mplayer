@@ -1,0 +1,1 @@
+/usr/local/arm-linux/bin/arm-linux-g++ -rdynamic CMakeFiles/main.dir/main.c.o CMakeFiles/main.dir/mouse_cursor_icon.c.o -o /mnt/hgfs/share/demo/bin/main  lib/liblvgl.a lvgl/liblvgl_examples.a lvgl/liblvgl_demos.a lvgl/liblvgl_thorvg.a -lm -lpthread lib/liblvgl.a 
