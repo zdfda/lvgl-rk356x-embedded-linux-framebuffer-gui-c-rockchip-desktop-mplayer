@@ -23,7 +23,7 @@
   <tr>
     <td align="center" valign="top">
       <b>🔐 登录界面 & 虚拟键盘</b><br>
-      <img src="keyboardAndLogin.png" width="480" alt="登录界面">
+      <img src="keyboardAndLogin.jpg" width="480" alt="登录界面">
     </td>
     <td align="center" valign="top">
       <b>📁 文件查找 & 🛠️ 图片转化</b><br>
@@ -33,7 +33,7 @@
   <tr>
     <td align="center" valign="top">
       <b>🖼️ 图片播放器 & 壁纸设置</b><br>
-      <img src="app2.png" width="480" alt="图片播放器">
+      <img src="app2.jpg" width="480" alt="图片播放器">
     </td>
     <td align="center" valign="top">
       <b>🎬 视频播放</b><br>
